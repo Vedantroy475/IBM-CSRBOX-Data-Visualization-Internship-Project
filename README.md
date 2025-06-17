@@ -1,5 +1,4 @@
-# IBM-CSR-BOX-Internship-Project-
-# IBM CSR Box Internship Project
+# **IBM CSR Box Internship Project**
 
 ## Overview
 
